@@ -28,11 +28,12 @@ I am a seasoned IT professional with over 8 years of thriving experience in a pr
 - [Interactive Regular Expressions](https://api.immersivelabs.online/share/achievements/7711816f3edb34e0c213d51555813994)
 - [Encoding](https://api.immersivelabs.online/share/achievements/7ed95a4dd6dda40ed6aceffed6e1163c)
 - [Windows Concepts](https://api.immersivelabs.online/share/achievements/dca4b66f3dc0ac6c5c4d09de14264ffa)
-- [Linux Command Line](https://immersivelabs.online/share/achievement/c313f7a3ad61325b362c122380cbd022)
+
 
  #### 🛠 Platform / Tech
 - [Splunk](https://api.immersivelabs.online/share/achievements/00c9833858bcc52270826e1488bd2b40)
 - [Powershell](https://api.immersivelabs.online/share/achievements/ad30896c8b9f2058568de3295373e29c)
+- [Linux Command Line](https://immersivelabs.online/share/achievement/c313f7a3ad61325b362c122380cbd022)
 
 #### 🛡 Defensive Cyber
 - [CVEs (Threat Hunting)](https://api.immersivelabs.online/share/achievements/fd71c5c3e30600ff412eab9f5bb850ff)
