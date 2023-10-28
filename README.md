@@ -19,7 +19,7 @@ I am a seasoned IT professional with over 8 years of thriving experience in a pr
 
 ### 🧰 Techonology and Platform
 
-<img align="left" alt="Splunk" width="40px" style="padding-right:10px;" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-splunk/events/download_ufzb3at.png">
+<img align="left" alt="Splunk" onmouseover="Splunk" width="40px" style="padding-right:10px;" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-splunk/events/download_ufzb3at.png">
 <img align="left" alt="AlienVault" width="40px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/25514665?s=200&amp;v=4">
 <img align="left" alt="SentinelOne" width="40px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/-Qrr8ITT0GVslQmcFWuTYbXO0VnC-NKhgQCBrTPb4pImfEu6tf580HIQs4dzgeCWNvS0" >
 <img align="left" alt="CarbonBlack" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Carbon-Black-Web.png">
