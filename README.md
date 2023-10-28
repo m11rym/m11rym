@@ -14,7 +14,6 @@ I am a seasoned IT professional with over 8 years of thriving experience in a pr
  - Cisco Certified Network Associate (CCNA)
  - IBM Cyber Security Analyst
 
-
 <details>
  <summary><h3>🔩 Completed Trainings</h3></summary>
  
@@ -41,9 +40,11 @@ I am a seasoned IT professional with over 8 years of thriving experience in a pr
  - [Persistence](https://api.immersivelabs.online/share/achievements/a9b5c71aaa31d6206f02b881d78c3354)
  
 </details>
-
-
-### CTF
+<details>
+ <summary><h3> 🚩 CTF</h3></summary>
+ 
  - [World Cup Special](https://api.immersivelabs.online/share/achievements/4b2a14b9daa9c2e3457fefac2ed422da)
+   
+</details>
 
-[![Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=m11rym)](https://github.com/m11rym//github-readme-stats)
+![Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=m11rym&theme=cobalt&show_icons=true)
