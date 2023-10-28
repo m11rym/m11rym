@@ -53,7 +53,7 @@ I am a seasoned IT professional with over 8 years of thriving experience in a pr
 
 <!-- need to add some this here -->
 
-![Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=m11rym&theme=github_dark&show_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=m11rym&theme=github_dark&show_icons=true) 
 
 <p align="center"> 
   View Counter<br>
