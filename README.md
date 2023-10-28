@@ -51,4 +51,4 @@ I am a seasoned IT professional with over 8 years of thriving experience in a pr
 
 </details>
 
-![Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=m11rym&theme=cobalt&show_icons=true)
+![Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=m11rym&theme=github_dark&show_icons=true)
