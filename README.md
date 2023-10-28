@@ -19,14 +19,15 @@ I am a seasoned IT professional with over 8 years of thriving experience in a pr
 
 ### 🧰 Techonology and Platform
 
+<img align="left" alt="Splunk" width="40px" style="padding-right:10px;" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-splunk/events/download_ufzb3at.png">
+<img align="left" alt="AlienVault" width="40px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/25514665?s=200&amp;v=4">
 <img align="left" alt="SentinelOne" width="40px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/-Qrr8ITT0GVslQmcFWuTYbXO0VnC-NKhgQCBrTPb4pImfEu6tf580HIQs4dzgeCWNvS0" >
+<img align="left" alt="CarbonBlack" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Carbon-Black-Web.png">
+<img align="left" alt="AzureSentinel" width="35px" style="padding-right:10px;" src="https://vectorseek.com/wp-content/uploads/2023/08/Azure-Sentinel-Logo-Vector.svg-.png">
 <img align="left" alt="DefenderforEndpoint" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Windows_Defender_logo.svg/1950px-Windows_Defender_logo.svg.png" >
 <img align="left" alt="CrowdStrike" width="40px" style="padding-right:10px;" src="https://companieslogo.com/img/orig/CRWD-442a5e7d.png?t=1648651763">
 <img align="left" alt="LogRhythm" width="40px" style="padding-right:10px;" src="https://docs.logrhythm.com/lrsiem/document-cover.png?inst-v=bc8836da-d50e-4ecd-9afb-3697881643bd">
-<img align="left" alt="CarbonBlack" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Carbon-Black-Web.png">
-<img align="left" alt="Splunk" width="40px" style="padding-right:10px;" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-splunk/events/download_ufzb3at.png">
-<img align="left" alt="AlienVault" width="40px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/25514665?s=200&amp;v=4">
-<img align="left" alt="AzureSentinel" width="40px" style="padding-right:10px;" src="https://vectorseek.com/wp-content/uploads/2023/08/Azure-Sentinel-Logo-Vector.svg-.png">
+
 <br />
 
 # 
