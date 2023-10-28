@@ -1,3 +1,4 @@
 # 👋 Hi, I’m Kim
-** Cyber / IT Professional  / Creative / Nerd **
+
+**`Everyday curiouser and curiouser (CyberSecurity Engineer/ IT Professional/ Creative) `**
 
