@@ -1,8 +1,9 @@
-# 👨‍💻 Hello There!
+# 👨‍💻 Hi there!
 
 **`(CyberSecurity Engineer/ IT Professional/ Creative) `**
 
 I am a seasoned IT professional with over 8 years of thriving experience in a prominent organization spanning the APAC region. My expertise lies in orchestrating intricate IT ecosystems, overseeing daily operations, and ensuring the delivery of secure services. Recently, I've embarked on a career transition as a Cybersecurity Engineer, with my sights set on advancing to a SOC Analyst position.
+
 #
 ### 📝 Certifications 
 
@@ -14,6 +15,17 @@ I am a seasoned IT professional with over 8 years of thriving experience in a pr
  - Cisco Certified Network Associate (CCNA)
  - IBM Cyber Security Analyst
 #
+
+
+### 🧰 Techonology and Platform
+
+<img align="left" alt="SentinelOne" width="50px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/-Qrr8ITT0GVslQmcFWuTYbXO0VnC-NKhgQCBrTPb4pImfEu6tf580HIQs4dzgeCWNvS0" >
+
+<br />
+
+#
+
+
 <details>
  <summary><h3> 🔩 Completed Trainings</h3></summary>
 
@@ -59,3 +71,4 @@ I am a seasoned IT professional with over 8 years of thriving experience in a pr
   View Counter<br>
   <img src="https://profile-counter.glitch.me/m11rym/count.svg" />
 </p>
+
