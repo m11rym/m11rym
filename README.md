@@ -52,6 +52,7 @@ I am a seasoned IT professional with over 8 years of experience in a prominent o
 - [Splunk](https://api.immersivelabs.online/share/achievements/00c9833858bcc52270826e1488bd2b40)
 - [Powershell](https://api.immersivelabs.online/share/achievements/ad30896c8b9f2058568de3295373e29c)
 - [Linux Command Line](https://immersivelabs.online/share/achievement/c313f7a3ad61325b362c122380cbd022)
+- [Zeek](https://api.immersivelabs.online/share/achievements/c3206ab43cd4fb1b4a82adb52e2af138)
 
 #### 🛡 Defensive Cyber
 - [CVEs (Threat Hunting)](https://api.immersivelabs.online/share/achievements/fd71c5c3e30600ff412eab9f5bb850ff)
