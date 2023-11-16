@@ -2,7 +2,7 @@
 
 **`(CyberSecurity Engineer/ IT Professional/ Creative Eye) `**
 
-I am a seasoned IT professional with over 8 years of experience in a prominent organization spanning the APAC region. My expertise lies in orchestrating intricate IT ecosystems, overseeing daily operations, and ensuring the delivery of secure services. Recently, I've embarked on a career transition as a Cybersecurity Engineer, with my sights set on advancing to a SOC Analyst position.
+I am a seasoned IT professional with over 8 years of experience in a prominent organization spanning the APAC region. My expertise lies in orchestrating intricate IT ecosystems, overseeing daily operations, and ensuring the delivery of secure services. Recently, I've embarked on a career transition as a Cybersecurity Engineer, with my sights set on advancing to a SOC position.
 
 #
 
