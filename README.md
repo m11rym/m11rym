@@ -1,6 +1,6 @@
 # 👨‍💻 Hi there!
 
-**`(CyberSecurity Engineer/ IT Professional/ Creative Eye) `**
+**`(CyberSecurity Engineer/ IT Professional/ Creative) `**
 
 I am a seasoned IT professional with over 8 years of experience in a prominent organization spanning the APAC region. My expertise lies in orchestrating intricate IT ecosystems, overseeing daily operations, and ensuring the delivery of secure services. Recently, I've embarked on a career transition as a Cybersecurity Engineer and with my sights set on advancing to a position that will enable me to reach a wider audience in promoting cybersecurity awareness.
 
